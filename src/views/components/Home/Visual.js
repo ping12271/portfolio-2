@@ -1,11 +1,11 @@
 import React from "react";
 import styled from "styled-components";
 
-const Photos = () => {
+const Visual = () => {
 
   return (
     <Container>
-        Photos
+        Visual
     </Container>
   )
 }
@@ -14,4 +14,4 @@ const Container = styled.div`
 
 `;
 
-export default Photos;
+export default Visual;

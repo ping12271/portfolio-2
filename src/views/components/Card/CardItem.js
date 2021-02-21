@@ -1,11 +1,11 @@
 import React from "react";
 import styled from "styled-components";
 
-const Header = () => {
+const CardItem = () => {
 
   return (
     <Container>
-        Header
+        CardItem
     </Container>
   )
 }
@@ -14,4 +14,4 @@ const Container = styled.div`
 
 `;
 
-export default Header;
+export default CardItem;

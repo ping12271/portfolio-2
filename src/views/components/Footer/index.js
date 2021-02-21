@@ -1,11 +1,11 @@
 import React from "react";
 import styled from "styled-components";
 
-const Header = () => {
+const Footer = () => {
 
   return (
     <Container>
-        Header
+        Footer
     </Container>
   )
 }
@@ -14,4 +14,4 @@ const Container = styled.div`
 
 `;
 
-export default Header;
+export default Footer;
